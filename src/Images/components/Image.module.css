@@ -1,0 +1,25 @@
+.card{
+    border: 1px solid gray;
+    border-radius: 4px;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 16px auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.5);
+}
+
+.footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+
+}
+
+.avatar{
+    width: 5%;
+    border-radius: 50px;
+}
+
+.image{
+    width: 100%;
+
+}
